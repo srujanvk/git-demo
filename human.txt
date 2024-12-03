@@ -1,0 +1,6 @@
+anisble
+terraform
+aws, azure 
+dockers
+Kubernetes
+azure devops
