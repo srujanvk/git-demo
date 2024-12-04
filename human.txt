@@ -14,3 +14,10 @@ c#
 secops:
 dev secops
 cloud sec
+
+network infra:
+cisco
+palo alto
+firewalls
+core
+
