@@ -4,3 +4,9 @@ aws, azure
 dockers
 Kubernetes
 azure devops
+
+programming:(before rebase)
+java
+css
+c#
+.Net
